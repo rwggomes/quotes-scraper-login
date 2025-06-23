@@ -1,0 +1,130 @@
+
+[START] 2025-06-23T18:12:14.287Z
+[INFO] 2025-06-23T18:12:18.286Z - Scraping page 1: https://quotes.toscrape.com/page/1/
+[INFO] 2025-06-23T18:12:19.476Z - Scraping page 2: https://quotes.toscrape.com/page/2/
+[INFO] 2025-06-23T18:12:20.686Z - Scraping page 3: https://quotes.toscrape.com/page/3/
+[INFO] 2025-06-23T18:12:21.903Z - Saved 30 quotes.
+[END] 2025-06-23T18:12:21.973Z (Duration: 7.69s)
+
+[START] 2025-06-23T18:13:46.645Z
+[INFO] 2025-06-23T18:13:48.823Z - Scraping page 1: https://quotes.toscrape.com/page/1/
+[INFO] 2025-06-23T18:13:50.018Z - Scraping page 2: https://quotes.toscrape.com/page/2/
+[INFO] 2025-06-23T18:13:51.244Z - Scraping page 3: https://quotes.toscrape.com/page/3/
+[INFO] 2025-06-23T18:13:52.481Z - Saved 30 quotes.
+[END] 2025-06-23T18:13:52.568Z (Duration: 5.92s)
+
+[START] 2025-06-23T18:21:34.655Z
+[INFO] 2025-06-23T18:21:37.036Z - Scraping page 1: https://quotes.toscrape.com/page/1/
+[INFO] 2025-06-23T18:21:38.233Z - Scraping page 2: https://quotes.toscrape.com/page/2/
+[INFO] 2025-06-23T18:21:39.488Z - Scraping page 3: https://quotes.toscrape.com/page/3/
+[INFO] 2025-06-23T18:21:40.714Z - Saved 27 authors.
+[END] 2025-06-23T18:21:40.776Z (Duration: 6.12s)
+
+[START] 2025-06-23T18:23:07.769Z
+[INFO] 2025-06-23T18:23:09.982Z - Scraping page 1: https://quotes.toscrape.com/page/1/
+[INFO] 2025-06-23T18:23:11.176Z - Scraping page 2: https://quotes.toscrape.com/page/2/
+[INFO] 2025-06-23T18:23:12.402Z - Scraping page 3: https://quotes.toscrape.com/page/3/
+[INFO] 2025-06-23T18:23:13.620Z - Saved 27 authors entries.
+[INFO] 2025-06-23T18:23:13.620Z - Pages scraped: 0
+[END] 2025-06-23T18:23:13.699Z (Duration: 5.93s)
+
+[START] 2025-06-23T18:26:31.576Z
+[INFO] 2025-06-23T18:26:31.577Z - Starting to scrape "authors"
+[INFO] 2025-06-23T18:26:31.577Z - Base URL: https://quotes.toscrape.com/page/
+[INFO] 2025-06-23T18:26:31.577Z - Output path: output/authors.json
+[INFO] 2025-06-23T18:26:33.952Z - Scraping page 1: https://quotes.toscrape.com/page/1/
+[INFO] 2025-06-23T18:26:35.151Z - Scraping page 2: https://quotes.toscrape.com/page/2/
+[INFO] 2025-06-23T18:26:36.374Z - Scraping page 3: https://quotes.toscrape.com/page/3/
+[INFO] 2025-06-23T18:26:37.601Z - Scraping complete. Total records: 27
+[END] 2025-06-23T18:26:37.665Z (Duration: 6.09s)
+[2025-06-23 15:28:55] [INFO] _____________ Scraping started_____________
+[2025-06-23 15:28:55] [INFO] Starting to scrape "authors"
+[2025-06-23 15:28:55] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 15:28:55] [INFO] Output path: output/authors.json
+[2025-06-23 15:28:58] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 15:28:59] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 15:29:01] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 15:29:02] [INFO] Scraping complete. Total records: 27
+[2025-06-23 15:29:02] [INFO] Scraping completed in 7.08s
+[2025-06-23 15:40:55] [INFO] _____________ Scraping started_____________
+[2025-06-23 15:40:55] [INFO] Starting to scrape "authors"
+[2025-06-23 15:40:55] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 15:40:55] [INFO] Output path: output/authors.json
+[2025-06-23 15:40:58] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 15:40:59] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 15:41:00] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 15:41:01] [INFO] Saved file: output/results-2025-06-23_15-41-01.output/authors.json
+[2025-06-23 15:41:01] [INFO] Saved 27 items to output/results-2025-06-23_15-41-01.output/authors.json
+[2025-06-23 15:41:01] [INFO] Scraping complete. Total records: 27
+[2025-06-23 15:41:01] [INFO] Scraping completed in 6.08s
+[2025-06-23 15:41:19] [INFO] _____________ Scraping started_____________
+[2025-06-23 15:41:19] [INFO] Starting to scrape "quotes"
+[2025-06-23 15:41:19] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 15:41:19] [INFO] Output path: output/quotes.json
+[2025-06-23 15:41:21] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 15:41:22] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 15:41:23] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 15:41:25] [INFO] Saved file: output/results-2025-06-23_15-41-25.output/quotes.json
+[2025-06-23 15:41:25] [INFO] Saved 30 items to output/results-2025-06-23_15-41-25.output/quotes.json
+[2025-06-23 15:41:25] [INFO] Scraping complete. Total records: 30
+[2025-06-23 15:41:25] [INFO] Scraping completed in 5.75s
+[2025-06-23 15:58:31] [INFO] _____________ Scraping started_____________
+[2025-06-23 15:58:31] [INFO] Starting to scrape "quotes"
+[2025-06-23 15:58:31] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 15:58:31] [INFO] Output path: output/quotes.json
+[2025-06-23 15:58:34] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 15:58:35] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 15:58:36] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 15:58:37] [INFO] Saved file: output/results-2025-06-23_15-58-37.output/quotes.json
+[2025-06-23 15:58:37] [INFO] Saved 30 items to output/results-2025-06-23_15-58-37.output/quotes.json
+[2025-06-23 15:58:37] [INFO] Scraping complete. Total records: 30
+[2025-06-23 15:58:37] [INFO] Scraping completed in 6.25s
+[2025-06-23 16:03:18] [INFO] _____________ Scraping started_____________
+[2025-06-23 16:03:18] [INFO] Starting to scrape "quotes"
+[2025-06-23 16:03:18] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 16:03:18] [INFO] Output path: output/quotes.json
+[2025-06-23 16:03:20] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 16:03:21] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 16:03:23] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 16:03:24] [ERROR] Fatal error: ENOENT: no such file or directory, open 'output/results-2025-06-23_16-03-24.output/quotes.json'
+[2025-06-23 16:03:24] [INFO] Scraping completed in 5.77s
+[2025-06-23 16:06:45] [INFO] _____________ Scraping started_____________
+[2025-06-23 16:06:45] [INFO] Starting to scrape "quotes"
+[2025-06-23 16:06:45] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 16:06:45] [INFO] Output path: output/quotes.json
+[2025-06-23 16:06:47] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 16:06:49] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 16:06:50] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 16:06:51] [INFO] Saved 30 items to output/quotes-2025-06-23_16-06-51.json
+[2025-06-23 16:06:51] [INFO] Scraping complete. Total records: 30
+[2025-06-23 16:06:51] [INFO] Scraping completed in 6.22s
+[2025-06-23 16:32:46] [INFO] _____________ Scraping started_____________
+[2025-06-23 16:32:46] [INFO] Starting to scrape "quotes"
+[2025-06-23 16:32:46] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 16:32:46] [INFO] Output path: output/quotes.json
+[2025-06-23 16:32:50] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 16:32:51] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 16:32:52] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 16:32:53] [INFO] Saved 30 items to output/quotes-2025-06-23_16-32-53.json
+[2025-06-23 16:32:53] [INFO] Scraping complete. Total records: 30
+[2025-06-23 16:32:53] [INFO] Scraping completed in 7.03s
+[2025-06-23 16:51:00] [INFO] _____________ Scraping started_____________
+[2025-06-23 16:51:00] [INFO] Starting to scrape "quotes"
+[2025-06-23 16:51:00] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 16:51:00] [INFO] Output path: output/quotes.json
+[2025-06-23 16:51:04] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 16:51:05] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 16:51:06] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 16:51:07] [INFO] Saved 30 items to output/quotes-2025-06-23_16-51-07.json
+[2025-06-23 16:51:07] [INFO] Scraping complete. Total records: 30
+[2025-06-23 16:51:07] [INFO] Scraping completed in 6.96s
+[2025-06-23 16:51:39] [INFO] _____________ Scraping started_____________
+[2025-06-23 16:51:39] [INFO] Starting to scrape "quotes"
+[2025-06-23 16:51:39] [INFO] Base URL: https://quotes.toscrape.com/page/
+[2025-06-23 16:51:39] [INFO] Output path: output/quotes.json
+[2025-06-23 16:51:42] [INFO] Scraping page 1: https://quotes.toscrape.com/page/1/
+[2025-06-23 16:51:43] [INFO] Scraping page 2: https://quotes.toscrape.com/page/2/
+[2025-06-23 16:51:44] [INFO] Scraping page 3: https://quotes.toscrape.com/page/3/
+[2025-06-23 16:51:45] [INFO] Saved 30 items to output/quotes-2025-06-23_16-51-45.json
+[2025-06-23 16:51:45] [INFO] Scraping complete. Total records: 30
+[2025-06-23 16:51:45] [INFO] Scraping completed in 5.91s
