@@ -6,9 +6,8 @@ A modular and extensible web scraper built with Puppeteer for [quotes.toscrape.c
 
 ## Features ##
 
-- Paginated scraping (default: 3 pages)
-- Automatic login (admin:admin)
-- Choose to scrape quotes or authors
+- Paginated scraping
+- Uses loginIfNeeded() function
 - Save results as JSON or CSV
 - Optional download of linked image/PDF assets
 - Modular architecture
